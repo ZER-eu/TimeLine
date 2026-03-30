@@ -7,7 +7,7 @@
 Ich habe diese Webseite erstellt, um HTML, CSS und Webdesign zu üben.
 
 Die Seite hat ein modernes Design mit einer Timeline für:
-- Education
+- SKILLS
 - Experience
 
 ## Funktionen
