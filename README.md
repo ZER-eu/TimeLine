@@ -4,10 +4,10 @@
 
 ## Über das Projekt
 
-Ich habe diese Webseite erstellt, um HTML, CSS und Webdesign zu üben.
+Diese Webseite wurde von mir erstellt zur Übungszwecken von HTML, CSS und Webdesign.
 
 Die Seite hat ein modernes Design mit einer Timeline für:
-- SKILLS
+- Skills
 - Experience
 
 ## Funktionen
@@ -23,6 +23,3 @@ Die Seite hat ein modernes Design mit einer Timeline für:
 - CSS
 - JavaScript
 
-## Ziel des Projekts
-
-Mit diesem Projekt möchte ich meine Frontend-Kenntnisse verbessern und meinen Lebenslauf als Webseite darstellen.
