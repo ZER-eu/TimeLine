@@ -22,3 +22,6 @@ Die Seite hat ein modernes Design mit einer Timeline für:
 - CSS
 - JavaScript
 
+## Hinweis
+
+Diese Seite dient nur zu Übungs- und Lernzwecken.  
