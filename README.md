@@ -1,5 +1,4 @@
 # TimeLine
-# Lebenslauf Webseite
 
 
 ## Über das Projekt
